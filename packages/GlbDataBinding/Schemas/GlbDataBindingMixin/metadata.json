@@ -1,0 +1,170 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "ClientUnitSchemaManager",
+      "UId": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+      "A2": "GlbDataBindingMixin",
+      "A5": "40879dd2-5062-4830-8cb1-47d8cfd9ae36",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "1b59c095-1fee-4e60-9d7a-e5028c3ad3a4",
+          "A2": "SelectPackageMessage",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "71d545ac-f5f6-4cbe-893f-9cc17b900582",
+          "A2": "NoAvailablePackagesError",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "662c6fad-f362-4046-b044-d1d2ccfc8edb",
+          "A2": "BindProfileCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "9f7b7da8-db30-4959-aa17-85eed5148d87"
+        },
+        {
+          "UId": "2bdd4682-4db3-4379-a632-f1cdb6a6e92d",
+          "A2": "ClearProfileCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "80e1991e-3240-4077-a1d7-cc561882c63a",
+          "A2": "BindDataButtonCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "b1b6839b-8c06-4c23-bd8d-0dc7a8368394",
+          "A2": "BindAllDataButtonCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "2c43fb90-93d7-4624-99d4-dc0814a2bc30",
+          "A2": "BindLookupButtonCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "35ff3698-2b31-4656-9d67-02bf80ed6435",
+          "A2": "BindOperationButtonCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "91948b51-a6ed-4c9e-b928-7b284495075e",
+          "A2": "BindSettingButtonCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "7d2f595c-1189-4da1-a90e-e3973424e209",
+          "A2": "BindWorkplaceButtonCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "26c3d89c-c81e-4d71-8dae-d788d6bde348",
+          "A2": "DataBoundMessage",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "baacbc48-5865-4a31-8282-dcee2fe19bd1",
+          "A2": "ColumnsSetupRestoredMessage",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "867d94f4-2b7a-4131-a4cb-aefba1aaf136",
+          "A2": "ColumnsSetupRestoredConfirm",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "a42263b5-d24d-4dcf-b14c-c4c83908fa08",
+          "A2": "SendingRequestError",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "4442ec92-d0b6-4eb0-91c2-6af999fa9831",
+          "A2": "BindProfileHintMessage",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "60b0f54a-3428-42fc-b0c9-539a80ab8b39"
+        },
+        {
+          "UId": "b45d73eb-2357-48c2-a973-abd9a4bbc4e7",
+          "A2": "ViewDetailsCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "60b0f54a-3428-42fc-b0c9-539a80ab8b39"
+        },
+        {
+          "UId": "f19774de-2ba9-427c-97cc-ab8e344dfb66",
+          "A2": "SectionCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "83f1e56a-d67c-408b-902c-52f63dd476e5",
+          "A2": "DetailCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "42d40668-bf4c-4bc1-84c8-e70acf774159"
+        },
+        {
+          "UId": "9b78288e-7d7d-4725-996c-513b5f8bb25d",
+          "A2": "BindRoleButtonCaption",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "863eae23-68e5-4236-a510-35097dd19759"
+        },
+        {
+          "UId": "c3b5a412-fc58-fe41-e9f7-7bcc41fc7826",
+          "A2": "ColumnsSetupNotFoundMessage",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "df68ad66-953f-4eac-8c37-5da2d32f7fc7"
+        },
+        {
+          "UId": "b63a74d0-5959-be8e-71d6-331f69322f9e",
+          "A2": "NoDataFound",
+          "A3": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A4": "ff644ced-18ae-4de8-8ff6-bc2fd60212ab",
+          "A5": "df68ad66-953f-4eac-8c37-5da2d32f7fc7"
+        }
+      ],
+      "B3": [],
+      "B6": "06b2f9c5-2217-4cca-9749-77d954e77765",
+      "B8": "7.10.2.1416",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3",
+      "HD4": 1,
+      "HD6": "null",
+      "HD5": [],
+      "HD7": [],
+      "HD8": [],
+      "HD11": []
+    }
+  }
+}

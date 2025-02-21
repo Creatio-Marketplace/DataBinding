@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "b2a4d9b1-9dd8-4335-8224-39940dd6a9fb",
+    "Name": "SysAdminOperationPageV2",
+    "ModifiedOnUtc": "\/Date(1502902640000)\/",
+    "Parent": {
+      "UId": "39123da8-ba19-42a8-a406-a767d0caded2",
+      "Name": "SysAdminOperationPageV2"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section card schema - \"Operations permissions\"",
+    "DependsOn": []
+  }
+}

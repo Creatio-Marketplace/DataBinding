@@ -1,0 +1,24 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "SourceCodeSchemaManager",
+      "UId": "017e4301-eb23-40bb-b520-ef6affda203b",
+      "A2": "GlbDataBindingHelper",
+      "A5": "40879dd2-5062-4830-8cb1-47d8cfd9ae36",
+      "B1": [],
+      "B2": [
+        {
+          "UId": "50d3e74d-920e-136e-eeca-0aace1a14ebf",
+          "A2": "NoAvailablePackagesFound",
+          "A3": "017e4301-eb23-40bb-b520-ef6affda203b",
+          "A4": "017e4301-eb23-40bb-b520-ef6affda203b",
+          "A5": "df68ad66-953f-4eac-8c37-5da2d32f7fc7"
+        }
+      ],
+      "B3": [],
+      "B6": "06b2f9c5-2217-4cca-9749-77d954e77765",
+      "B8": "7.10.2.1416",
+      "HD1": "50e3acc0-26fc-4237-a095-849a1d534bd3"
+    }
+  }
+}

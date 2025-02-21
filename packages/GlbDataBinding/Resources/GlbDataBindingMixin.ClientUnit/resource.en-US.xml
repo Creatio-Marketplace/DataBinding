@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="GlbDataBindingMixin" />
+			<Item Name="LocalizableStrings.BindAllDataButtonCaption.Value" Value="Bind all data" />
+			<Item Name="LocalizableStrings.BindDataButtonCaption.Value" Value="Bind data" />
+			<Item Name="LocalizableStrings.BindLookupButtonCaption.Value" Value="Bind lookup" />
+			<Item Name="LocalizableStrings.BindOperationButtonCaption.Value" Value="Bind operation" />
+			<Item Name="LocalizableStrings.BindProfileCaption.Value" Value="Bind columns setup" />
+			<Item Name="LocalizableStrings.BindProfileHintMessage.Value" Value="Remember to save column setup 'For all users'" />
+			<Item Name="LocalizableStrings.BindRoleButtonCaption.Value" Value="Bind role" />
+			<Item Name="LocalizableStrings.BindSettingButtonCaption.Value" Value="Bind setting" />
+			<Item Name="LocalizableStrings.BindWorkplaceButtonCaption.Value" Value="Bind workplace" />
+			<Item Name="LocalizableStrings.ClearProfileCaption.Value" Value="Restore columns setup" />
+			<Item Name="LocalizableStrings.ColumnsSetupNotFoundMessage.Value" Value="Set up default columns first" />
+			<Item Name="LocalizableStrings.ColumnsSetupRestoredConfirm.Value" Value="Are you sure that you want to restore columns setup for {0} '{1}'?" />
+			<Item Name="LocalizableStrings.ColumnsSetupRestoredMessage.Value" Value="Default columns setup restored successfully" />
+			<Item Name="LocalizableStrings.DataBoundMessage.Value" Value="Data was bound successfully" />
+			<Item Name="LocalizableStrings.DetailCaption.Value" Value="detail" />
+			<Item Name="LocalizableStrings.NoAvailablePackagesError.Value" Value="There is no user package containing '{0}' schema in hierarchy" />
+			<Item Name="LocalizableStrings.NoDataFound.Value" Value="No data found" />
+			<Item Name="LocalizableStrings.SectionCaption.Value" Value="section" />
+			<Item Name="LocalizableStrings.SelectPackageMessage.Value" Value="Select package" />
+			<Item Name="LocalizableStrings.SendingRequestError.Value" Value="Error while sending request" />
+			<Item Name="LocalizableStrings.ViewDetailsCaption.Value" Value="View details" />
+		</Items>
+	</Group>
+</Resources>

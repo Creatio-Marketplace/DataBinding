@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "ffd3e4fe-d38d-4f6c-a20f-690345cee210",
+    "Name": "SysSettingsSection",
+    "ModifiedOnUtc": "\/Date(1502902698000)\/",
+    "Parent": {
+      "UId": "c3e0baeb-96a8-48c8-a154-5c7d0250b2bf",
+      "Name": "SysSettingsSection"
+    },
+    "ExtendParent": true,
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section - System settings",
+    "DependsOn": []
+  }
+}

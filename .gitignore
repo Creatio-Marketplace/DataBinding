@@ -1,0 +1,13 @@
+**/.vscode
+**/.idea
+**/.vs
+
+**/[B-b]in
+**/[O-o]bj
+
+
+**/resource.??-??.xml
+!**/resource.en-us.xml
+
+**/data.??-??.xml
+!**/data.en-us.xml
